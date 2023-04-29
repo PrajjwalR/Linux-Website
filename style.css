@@ -145,7 +145,10 @@ font-family: 'Oxygen', sans-serif;
 }
 
 /* Table of release content */
-
+#aLatestRelease{
+    text-decoration: none;
+    color: #4c3d00;
+}
 .release{
     margin-top: 40px;
 
